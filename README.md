@@ -1,4 +1,4 @@
-⁸# SpreadSheet-in-JavaScript
+# SpreadSheet-in-JavaScript
 
 
 freeCodeCamp Practice Project.
